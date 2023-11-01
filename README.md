@@ -2,7 +2,7 @@
 
 This is Martin from Tianjin, China.
 
-- 🌱 I'm currently learning Swift (iOS Dev.), Web Dev. & Python...
+- 🌱 I'm currently learning Python for machine learning and major in IoT engineering ...
 - 📪 How to reach me: 
 	- Mail: 01skipper_lucky@icloud.com
 - 👀 Follow me at:
