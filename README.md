@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is Martin from Tianjin, China.
+This is Martin.
 
-- 🌱 I'm currently learning Python for machine learning and major in IoT engineering ...
+- 🌱 I'm currently majoring in IoT engineering...
 - 📪 How to reach me: 
 	- Mail: 01skipper_lucky@icloud.com
 - 👀 Follow me at:
