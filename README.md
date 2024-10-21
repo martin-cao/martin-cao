@@ -6,9 +6,9 @@ This is Martin Cao.
 - 📪 How to reach me: 
 	- Mail: martincao119@icloud.com
 - 👀 Follow me at:
-	- Twitter: [@Martin_Cao_](https://twitter.com/Martin_Cao_)
-	- Mastodon: [@martincao@dragon-fly.club](mast.dragon-fly.club/web/accounts/4)
-	- Blog: [Martin's Blog](weblogcomm.ltd)
+	- 𝕏(formerly Twitter): [@Martin_Cao_](https://twitter.com/Martin_Cao_)
+	- Mastodon: [@martincao@dragon-fly.club](https://mast.dragon-fly.club/@martincao)
+	- Blog: [Martin's Blog](https://www.weblogcomm.ltd)
 - 💬 Working language: English, Chinese (中文), Japanese (日本語)
 
 > Profile photo from qyMinusk9@X (Twitter)
