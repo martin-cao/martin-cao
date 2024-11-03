@@ -11,5 +11,9 @@ This is Martin Cao.
 	- Blog: [Martin's Blog](https://www.weblogcomm.ltd)
 - 💬 Working language: English, Chinese (中文), Japanese (日本語)
 
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martin-cao&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-cao)
+
 > Profile photo from qyMinusk9@X (Twitter)
 > 喜多可爱捏😊
