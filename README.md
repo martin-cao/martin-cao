@@ -6,7 +6,7 @@ This is Martin Cao.
 - 📪 How to reach me: 
 	- Mail: martincao119@icloud.com
 - 👀 Follow me at:
-	- Blog: [Martin's Blog](https://www.weblogcomm.ltd)
+	- Blog: [Martin's Blog](https://martincao.cc)
 - 💬 Working language: English, Chinese (中文), Japanese (日本語)
 
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martin-cao&show_icons=true&theme=dark&count_private=true)
