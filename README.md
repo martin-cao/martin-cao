@@ -4,7 +4,7 @@ This is Martin Cao.
 
 - 🌱 I'm currently majoring in IoT engineering...
 - 📪 How to reach me: 
-	- Mail: [i@martincao.cc](mailto:i@martincao.cc)
+	- Mail: [martincao119@icloud.com](mailto:martincao119@icloud.com)
 - 👀 Follow me at:
 	- Blog: [Martin's Blog](https://martincao.cc)
 - 💬 Working language: English, Chinese (中文), Japanese (日本語)
