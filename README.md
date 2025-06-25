@@ -13,5 +13,3 @@ This is Martin Cao.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-cao)
 
-> Profile photo from qyMinusk9@X (Twitter)
-> 喜多可爱捏😊
